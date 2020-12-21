@@ -25,5 +25,6 @@
     },
     "scripts": {
         "test": "vendor/bin/phpspec run"
-    }
+    },
+    "minimum-stability": "dev"
 }
